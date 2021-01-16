@@ -1,0 +1,3 @@
+include ':SuperHelper'
+include ':app'
+rootProject.name = "SuperHelper"
